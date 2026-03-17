@@ -142,13 +142,15 @@ All dataset rights belong to the original creators and contributors.
 
 ## 👨‍💻 Author
 
-**Sandeep**
+Sandeep
 🔗 GitHub: https://github.com/sandeepdgn
-**Prithak**
+Prithak
 🔗 GitHub: https://github.com/sasquatchrex
-**Diwen**
+Diwen
 🔗 GitHub: https://github.com/squareshot-db
+
 ---
+
 
 ## ⭐ Project Goal
 
